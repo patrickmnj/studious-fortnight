@@ -26,5 +26,5 @@ All you need is **Python 3.x** installed on your system. Python's built-in `sqli
 1. Open your terminal or command prompt.
 2. Navigate to the project folder.
 3. Launch the app by running:
-   ```bash
-   week4_assignment.py```
+   ```bash```
+   ```week4_assignment.py```
